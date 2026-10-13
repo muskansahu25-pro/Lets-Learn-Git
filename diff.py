@@ -3,8 +3,8 @@ def diff(sum):
     a = int(input("a:"))
     b = int(input("b:"))
     
-    sum = a - b
-    return sum
+    sums = a - b
+    return sums
 
 m = diff()
 print(m)
