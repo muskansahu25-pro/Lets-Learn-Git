@@ -6,5 +6,6 @@ def add(sum):
     sum = a + b
     return sum
 
-add()
+m = add()
+print(m)
     
