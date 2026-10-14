@@ -1,7 +1,7 @@
 def multi():
     
-    a = int(input("a: "))
-    b = int(input("b: "))
+    a = int(input("a "))
+    b = int(input("b "))
     multiply = a * b
     return multiply
 
