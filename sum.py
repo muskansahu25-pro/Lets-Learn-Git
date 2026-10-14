@@ -1,4 +1,4 @@
-def add(sum):
+def add():
     
     a = int(input("a:"))
     b = int(input("b:"))
